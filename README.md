@@ -1,11 +1,6 @@
 # Olá! Eu sou o Dominyck Asaphe 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio em Tecnologia da Informação.  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" alt="Banner do projeto" width="100%">
-</picture>
+Sou estudante de Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio em Tecnologia da Informação. 
 
 ## Tecnologias que estou estudando
 - Python     .
