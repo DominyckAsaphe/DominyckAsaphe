@@ -1,6 +1,6 @@
-# Olá! Eu sou o Dominyck Asaphe 
+# Olá! Eu sou o Dominyck Asaphe 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio em Tecnologia da Informação. 
+Sou estudante de Análise e Desenvolvimento de Sistemas e busco minha primeira oportunidade de estágio em Tecnologia da Informação.
 
 ## Tecnologias que estou estudando
 - Python     .
